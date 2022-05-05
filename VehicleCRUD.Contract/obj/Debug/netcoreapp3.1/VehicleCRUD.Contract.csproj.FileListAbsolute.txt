@@ -1,0 +1,10 @@
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\bin\Debug\netcoreapp3.1\VehicleCRUD.Contract.deps.json
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\bin\Debug\netcoreapp3.1\VehicleCRUD.Contract.dll
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\bin\Debug\netcoreapp3.1\VehicleCRUD.Contract.pdb
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\obj\Debug\netcoreapp3.1\VehicleCRUD.Contract.csproj.AssemblyReference.cache
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\obj\Debug\netcoreapp3.1\VehicleCRUD.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\obj\Debug\netcoreapp3.1\VehicleCRUD.Contract.AssemblyInfoInputs.cache
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\obj\Debug\netcoreapp3.1\VehicleCRUD.Contract.AssemblyInfo.cs
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\obj\Debug\netcoreapp3.1\VehicleCRUD.Contract.csproj.CoreCompileInputs.cache
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\obj\Debug\netcoreapp3.1\VehicleCRUD.Contract.dll
+C:\Users\vgandham\source\repos\VehicleCRUD\VehicleCRUD.Contract\obj\Debug\netcoreapp3.1\VehicleCRUD.Contract.pdb
